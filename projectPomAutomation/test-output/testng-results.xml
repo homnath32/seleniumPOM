@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-14T09:23:56 NPT" name="Default suite" finished-at="2025-01-14T09:24:12 NPT" duration-ms="16264">
+    <groups>
+    </groups>
+    <test started-at="2025-01-14T09:23:56 NPT" name="Default test" finished-at="2025-01-14T09:24:12 NPT" duration-ms="16264">
+      <class name="testCases.signUpandLoginFlow">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.signUpandLoginFlow@55dfebeb]" started-at="2025-01-14T09:23:56 NPT" name="setup" finished-at="2025-01-14T09:23:59 NPT" duration-ms="2782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signupandLogin()[pri:1, instance:testCases.signUpandLoginFlow@55dfebeb]" started-at="2025-01-14T09:23:59 NPT" name="signupandLogin" finished-at="2025-01-14T09:24:12 NPT" duration-ms="13094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signupandLogin -->
+      </class> <!-- testCases.signUpandLoginFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
